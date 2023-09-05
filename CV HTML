@@ -1,0 +1,42 @@
+<img src="https://cdn.vox-cdn.com/thumbor/xBIBkXiGLcP-kph3pCX61U7RMPY=/0x0:1400x788/1200x800/filters:focal(588x282:812x506)/cdn.vox-cdn.com/uploads/chorus_image/image/70412073/0377c76083423a1414e4001161e0cdffb0b36e1f_760x400.0.png" alt="Image description" width="300" height="200">
+  
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My CV</title>
+  </head>
+  <body>
+    <h1>Ou Somang</h1>
+    <h2>Web Developer</h2>
+    <p>Email:oushunan123@email.com</p>
+    <p>Phone: 069889995</p>
+  
+   
+    <h3>Skills</h3>
+    <ul>
+      <li>HTML</li>
+      <li>CSS</li>
+      <li>JavaScript</li>
+      <li>React</li>
+      <li>Angular</li>
+      <li>Node.js</li>
+      <li>SQL</li>
+    </ul>
+    
+    
+    
+      
+    <hr>
+    <h3>Education</h3>
+    <p>information technology num - University</p>
+    <h3>hobbie</h3>
+    <ul>
+      <li>reading </li>
+      <li>study</li>
+      <li>funny</li>
+      <li>listen music</li>
+      <li>sport</li>
+      <li>cleaning house</li>
+      
+  </body>
+</html>
